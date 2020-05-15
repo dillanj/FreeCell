@@ -1,0 +1,20 @@
+﻿  FreeCell.cpp
+  FreeCellDlg.cpp
+  cell.cpp
+U:\cs3500\FreeCell\FreeCell\FreeCellDlg.cpp(191,20): warning C4018:  '<': signed/unsigned mismatch
+U:\cs3500\FreeCell\FreeCell\cell.cpp(18,36): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+U:\cs3500\FreeCell\FreeCell\cell.cpp(18,28): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+U:\cs3500\FreeCell\FreeCell\cell.cpp(18,22): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+U:\cs3500\FreeCell\FreeCell\cell.cpp(18,15): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+U:\cs3500\FreeCell\FreeCell\cell.cpp(19,11): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+U:\cs3500\FreeCell\FreeCell\cell.cpp(20,10): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+U:\cs3500\FreeCell\FreeCell\cell.cpp(24,21): warning C4018:  '<': signed/unsigned mismatch
+U:\cs3500\FreeCell\FreeCell\cell.cpp(26,16): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+U:\cs3500\FreeCell\FreeCell\cell.cpp(88,36): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+U:\cs3500\FreeCell\FreeCell\cell.cpp(88,28): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+U:\cs3500\FreeCell\FreeCell\cell.cpp(88,22): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+U:\cs3500\FreeCell\FreeCell\cell.cpp(88,15): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+U:\cs3500\FreeCell\FreeCell\cell.cpp(91,32): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+U:\cs3500\FreeCell\FreeCell\cell.cpp(91,22): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+  FreeCell.vcxproj -> U:\cs3500\FreeCell\Debug\FreeCell.exe
